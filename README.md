@@ -1,6 +1,3 @@
-<a href="https://github.com/Gioee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Gioee&theme=vue&bg_color=00000000&include_all_commits=true" />
-</a>
-<a href="https://github.com/Gioee">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gioee&theme=vue&layout=compact&langs_count=10&bg_color=00000000&card_width=320" />
-</a>
+
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gioe&layout=compact&theme=vue&bg_color=0d1117&hide_border=true&text_color=ffffff&title_color=4492f8&custom_title=🧑‍💻%20Most%20used%20languages&langs_count=10&display_format=percent)
